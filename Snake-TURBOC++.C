@@ -1,3 +1,8 @@
+/*
+	Author : Vaitul Bhayani
+	From Hns College.
+*/
+
 #include<conio.h>
 #include<stdio.h>
 int l=4,i,score=0,life=3,tarX,tarY;
